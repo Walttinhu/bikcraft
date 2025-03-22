@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+}
+
+body,
+ul {
+  margin: 0px;
+  padding: 0px;
+}
+
+a {
+  text-decoration: none;
+}
