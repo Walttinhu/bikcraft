@@ -92,8 +92,16 @@ ul {
 
   #menu a {
     padding: 1rem 0rem;
-    margin: 1rem;
+    margin: 0rem 1rem;
     border-bottom: 2px solid #ffffff;
+  }
+
+  #menu a::after {
+    display: none;
+  }
+
+  #menu a:hover {
+    background: #2e2e2e;
   }
 
   #btn-mobile {
