@@ -9,15 +9,18 @@ body {
   padding-bottom: 600px;
 }
 
-h1, h2, h3, h4,
-p {
+h1,
+h2,
+h3,
+h4,
+p,
+blockquote {
   margin: 0px;
 }
 
 img {
   max-width: 100%;
   display: block;
-  
 }
 
 img[src$=".jpg"] {
